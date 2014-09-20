@@ -15,5 +15,8 @@ The goal of this document is to explain how all of the scripts work and how they
 - "UCI HAR Dataset": the directory containing the test and training data sets
 
 ### Directions
-To run the analysis yourself, set the working directory to the root of the repository.  
-You can clone the repository from the following url: 
+To run the analysis yourself, set the working directory to the root of the repository.
+You can clone the repository from the following url <https://github.com/dhachuel/getting_cleaning_data_week3_project.git>.   
+Finally, just run the run_analysis.R script to redo the process. 
+
+**Good Luck!**
